@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "phatdz.sdlf.fun",
     "port": 27586,
-    "version": "",
+    "version": "1.21.10",
     "try-creative": false
   },
   "position": {
